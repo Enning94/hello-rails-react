@@ -113,7 +113,9 @@ cd 'project name'
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-- 
+- Create API documentation using rswag
+- Add testing for react and rails.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
